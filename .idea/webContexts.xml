@@ -3,6 +3,7 @@
   <component name="WebContextManager">
     <option name="state">
       <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flow/checkout/collectShippingDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flow/checkout" />
         <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page" />
       </map>
     </option>
